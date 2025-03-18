@@ -83,11 +83,3 @@ This project performs real-time object detection on a traffic video using **SSD 
 
 ## Sample Output
 The script detects objects in the video and overlays bounding boxes and labels in real-time.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Would you like any modifications or additions, such as adding performance optimizations? 🚀
-```
